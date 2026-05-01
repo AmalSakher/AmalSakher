@@ -47,15 +47,6 @@ I specialize in building secure, scalable, and maintainable web applications usi
 - Building real-world Laravel projects  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmalSakher&show_icons=true" />
-</p>
-
-
----
 ## 📬 Contact Me
 
 <p align="center">
